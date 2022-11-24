@@ -1,0 +1,34 @@
+body
+{
+background: url("https://static.vecteezy.com/system/resources/previews/002/188/833/non_2x/chat-wallpaper-social-media-message-background-copy-space-for-a-text-vector.jpg");
+background-size: cover;
+}
+h1
+{
+    color : white;
+    
+    font-size: xx-large;
+}
+h2
+{
+    color : rgb(234, 241, 245);
+    
+    font-size: x-large;
+}
+#login_button
+{
+    background-color: white;
+    color : rgb(20, 246, 246);
+    font-size: larger;
+}
+#username
+{
+    background-color:cyan;
+    color : white;
+    font-size: larger;
+}
+#logo
+{
+    height : 100px;
+    width : 130px;
+}
